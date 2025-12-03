@@ -12,7 +12,7 @@ export default function Navbar() {
           <div className="flex items-center space-x-4">
             <SignedOut>
               <SignInButton mode="modal">
-                <button className="px-4 py-2 border-black hover:bg-gray-100">Sign In Fuera</button>
+                <button className="px-4 py-2 border-black hover:bg-gray-100">Sign In</button>
               </SignInButton>
             </SignedOut>
 
